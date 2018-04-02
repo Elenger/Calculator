@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ElengCalc3</string>
+    <string name="textview"></string>
+    <string name="button">7</string>
+    <string name="button2">8</string>
+    <string name="button3">9</string>
+    <string name="button4">DEL</string>
+    <string name="button5">4</string>
+    <string name="button6">5</string>
+    <string name="button7">6</string>
+    <string name="button8">÷</string>
+    <string name="button9">1</string>
+    <string name="button10">2</string>
+    <string name="button11">3</string>
+    <string name="button12">*</string>
+    <string name="button13">.</string>
+    <string name="button14">0</string>
+    <string name="button15">=</string>
+    <string name="button16">-</string>
+    <string name="button17">+</string>
+    <string name="button19">)</string>
+    <string name="button18">(</string>
+</resources>
